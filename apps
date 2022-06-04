@@ -1,1 +1,6 @@
-
+Favorite Apps
+^ca(1,brave)Brave ^ca()
+^ca(1,discord)Discord ^ca()
+^ca(1,exec $TERMINAL -e vifm)Vifm ^ca()
+^ca(1,exec $TERMINAL -e nvim) NeoVim ^ca()
+^ca(1,exec $TERMINAL) Terminal ^ca()
