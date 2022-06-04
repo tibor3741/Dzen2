@@ -1,1 +1,1 @@
-# Dzen2
+# Dzen2 my favorite apps menu
